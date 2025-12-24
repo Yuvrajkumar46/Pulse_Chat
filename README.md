@@ -16,9 +16,8 @@ PulseChat is a full-stack real-time chat application designed to demonstrate mod
 - Version Control: Git & GitHub
 
 ## 📂 Project Structure
-pulsechat/
-├── frontend/
-├── backend/
+pulsechat/<br>
+├── frontend/<br>
 └── README.md
 
 # Pulse-Chat<br>
